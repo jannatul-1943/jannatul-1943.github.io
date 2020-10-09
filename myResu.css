@@ -1,0 +1,29 @@
+#header
+{
+background-color:grey;
+color:white;
+text-align:right;
+padding:15px 15px;
+}
+
+#nav
+{
+background-color:#00ffcc;
+color: white;
+float:left;
+padding:32px;
+height:100%;
+}
+
+#sec
+{
+background-color:white;
+float:left;
+padding-left:15px;
+width:56%;
+}
+body
+{
+margin-left:10%;
+margin-right:10%;
+}
